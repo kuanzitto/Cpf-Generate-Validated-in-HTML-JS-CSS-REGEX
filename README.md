@@ -8,7 +8,7 @@ EN: This was another project made by me. It was a challenge launched by the Prof
 
 ->    I ended up adding a new function, which was the "CPF Generator". This option generates CPFs and validates them automatically, if the user wants to check their validation, he just needs to request a new validation.
 
-                 ![Demostração Inicial](https://user-images.githubusercontent.com/120482264/223213750-b03d212d-4180-4d56-a82e-659c0b1b71cb.gif)
+   ![Demostração Inicial](https://user-images.githubusercontent.com/120482264/223213750-b03d212d-4180-4d56-a82e-659c0b1b71cb.gif)
 
 # Gerador de CPF / CPF Generate: 
 
